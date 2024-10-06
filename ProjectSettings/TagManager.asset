@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Prefab Trigger
+  - Fuel Can
+  - Bullet
+  - Potion
+  - Damage
+  - Deco
+  - Bullet2
+  - BulletTrigger1
+  - BulletTrigger2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 271369071
+    locked: 0
+  - name: Character
+    uniqueID: 2888622795
+    locked: 0
+  - name: Foreground
+    uniqueID: 759955183
+    locked: 0
